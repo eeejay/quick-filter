@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "name": "Quick Filter",
+  "description": "Quickly apply color filter settings by triple tapping camera focus",
+  "developer": {
+    "name": "Eitan Isaacson"
+  },
+  "role": "addon",
+  "customizations": [{
+    "filter": "system.gaiamobile.org",
+    "scripts": ["js/addon.js"]
+  }],
+  "type": "certified",
+  "icons": {
+    "16": "/img/icons/icon16x16.png",
+    "48": "/img/icons/icon48x48.png",
+    "60": "/img/icons/icon60x60.png",
+    "128": "/img/icons/icon128x128.png"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+   "permissions": {}
+}
