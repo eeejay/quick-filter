@@ -3,7 +3,9 @@
   "name": "Quick Filter",
   "description": "Quickly apply color filter settings by triple tapping camera focus",
   "developer": {
-    "name": "Eitan Isaacson"
+    "name": "Eitan Isaacson",
+    "url": "https://github.com/eeejay/quick-filter"
+
   },
   "role": "addon",
   "customizations": [{
