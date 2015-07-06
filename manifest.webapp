@@ -8,11 +8,12 @@
 
   },
   "role": "addon",
+  "type": "certified",
+  "package_path": "dist/package.zip",
   "customizations": [{
     "filter": "system.gaiamobile.org",
     "scripts": ["js/addon.js"]
   }],
-  "type": "certified",
   "icons": {
     "16": "/img/icons/icon16x16.png",
     "48": "/img/icons/icon48x48.png",
